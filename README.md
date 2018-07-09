@@ -45,4 +45,4 @@ yarn build
 ```
 
 Right now this repo is linked to a netlify site so any pushes to master get automatically built and
-deployed to [https://modern-js-presentation.netlify.com](https://modern-js-presentation.netlify.com)
+deployed to [https://modern-js-learning-hour.netlify.com](https://modern-js-learning-hour.netlify.com)
